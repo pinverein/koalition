@@ -49,7 +49,7 @@ nav:
         href: supporters
 
       - ref: action
-        title: Handlungsanweisungen
+        title: Handlungsempfehlungen
         href: action
 
       - ref: contact
@@ -89,7 +89,7 @@ nav:
         href: supporters
 
       - ref: action
-        title: Handlungsanweisungen
+        title: Handlungsempfehlungen
         href: action
 
       - ref: contact
