@@ -9,6 +9,6 @@ language: de
   <h1 class="title-text">Handlungs<wbr>empfehlungen</h1>
 
   <div class="lead-text">
-    <p class="lead-text">Hier folgen wichtige Handlungsempfehlungen der Koalition gegen antimuslimischen Rassismus.</p>
+    <p class="lead-text">Hier folgen in Kürze wichtige Handlungsempfehlungen der Koalition gegen antimuslimischen Rassismus.</p>
   </div></div>
 </div>
