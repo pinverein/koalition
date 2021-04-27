@@ -8,21 +8,13 @@ language: de
 
 Diese Website wurde ehrenamtlich erstellt und untersteht keiner Projektförderung. Der Inhalt dieser Website stellt ausschließlich Ansichten der Autor*innen dar und liegt in deren alleiniger Verantwortung. 
 
-Die Informationen auf www.??????.at werden zur Verfügung gestellt von:
+Die Informationen auf www.diekoalition.at werden zur Verfügung gestellt von:
 
 Koalition gegen antimuslimischen Rassismus 
 
 Für den Inhalt verantwortlich: Alle Partner*innen der Koalition gegen antimuslimischen Rassismus 
 
-Rechtsform: ????
-
 Sämtliche auf der Website veröffentlichten Texte, Abbildungen, Grafiken, Videosequenzen, Tondokumente und andere Materialien unterliegen dem Schutz des Urheberrechts. Urheber*in ist entweder ein Mitglied der Koalition gegen antimuslimischen Rassismus oder die in der Quellenangabe genannte Person oder Institution. Eine Wiedergabe, Massenvervielfältigung oder Veröffentlichung der auf der Website befindlichen Informationen ist nicht gestattet. Die Genehmigung zum Abdruck oder zur Weiterverbreitung kann im Einzelfall erteilt werden.
-
-**Nutzungsbedingungen**
-
-
-
-???
 
 
 **Haftungsausschluss**
@@ -43,7 +35,4 @@ Sämtliche auf der Website veröffentlichten Texte, Abbildungen, Grafiken, Video
 
 *   Datenschutz
 
-    Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Mit der Angabe seiner Postadresse bzw. E-Mail-Adresse erklärt sich der Nutzer*innen (widerruflich) einverstanden, bestelltes Informationsmaterial (Newsletter, Postzusendungen) von der Koalition gegen antimuslimischen Rassismus pet Post und/oder E-Mail zu erhalten. Weiters erklärt sich der Nutzer mit der EDV-unterstützten Erfassung und Weiterverarbeitung ihn betreffender Daten einverstanden. Diese persönlichen Informationen werden von der Koalition gegen antimuslimischen Rassismus nur zur Ausführung von durch Nutzer bestellte Leistungen verwendet bzw. weiters, um die Nutzer auf neue Termine, Veranstaltungen, Programmpunkte, Onlinedienste und Leistungen des Netzwerks ‚um hate crime sichtbar zu machen‘ aufmerksam zu machen. Die vom*von der Nutzer*in bekannt gegebenen Daten werden nach den Bestimmungen des Datenschutzgesetzes in seiner jeweils gültigen Fassung streng vertraulich behandelt, es sei denn, es besteht eine gesetzliche und rechtliche Notwendigkeit, Rechte oder Eigentum von der Koalition gegen antimuslimischen Rassismus
-
-
-     zu verteidigen oder die Interessen der anderen Nutzer zu schützen.
+    Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, so erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Mit der Angabe seiner Postadresse bzw. E-Mail-Adresse erklärt sich der Nutzer*innen (widerruflich) einverstanden, bestelltes Informationsmaterial (Newsletter, Postzusendungen) von der Koalition gegen antimuslimischen Rassismus pet Post und/oder E-Mail zu erhalten. Weiters erklärt sich der Nutzer mit der EDV-unterstützten Erfassung und Weiterverarbeitung ihn betreffender Daten einverstanden. Diese persönlichen Informationen werden von der Koalition gegen antimuslimischen Rassismus nur zur Ausführung von durch Nutzer bestellte Leistungen verwendet bzw. weiters, um die Nutzer auf neue Termine, Veranstaltungen, Programmpunkte, Onlinedienste und Leistungen des Netzwerks ‚um hate crime sichtbar zu machen‘ aufmerksam zu machen. Die vom*von der Nutzer*in bekannt gegebenen Daten werden nach den Bestimmungen des Datenschutzgesetzes in seiner jeweils gültigen Fassung streng vertraulich behandelt, es sei denn, es besteht eine gesetzliche und rechtliche Notwendigkeit, Rechte oder Eigentum von der Koalition gegen antimuslimischen Rassismus zu verteidigen oder die Interessen der anderen Nutzer*innen zu schützen.
