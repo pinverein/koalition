@@ -1772,8 +1772,8 @@ section.articles_and_literature .article {
   border-radius: 4px;
 }
 section.articles_and_literature .article h3 {
-  font-style: italic;
-  margin: 0;
+  font-weight: bold;
+  margin: 0 0 1rem;
 }
 @media (max-width: 1080px) {
   section.articles_and_literature .col-full {

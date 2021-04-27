@@ -1133,16 +1133,6 @@
 		"oAP": "/_site/assets/css/0-tools/fontello/README.txt",
 		"oF": 0
 		},
-	"/_site/assets/css/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_site/assets/css/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/_site/assets/css/main.css.map": {
 		"cB": 0,
 		"ft": 8192,
