@@ -8,21 +8,13 @@ language: de
 
 Diese Website wurde ehrenamtlich erstellt und untersteht keiner Projektförderung. Der Inhalt dieser Website stellt ausschließlich Ansichten der Autor*innen dar und liegt in deren alleiniger Verantwortung. 
 
-Die Informationen auf www.??????.at werden zur Verfügung gestellt von:
+Die Informationen auf www.diekoalition.at werden zur Verfügung gestellt von:
 
 Koalition gegen antimuslimischen Rassismus 
 
 Für den Inhalt verantwortlich: Alle Partner*innen der Koalition gegen antimuslimischen Rassismus 
 
-Rechtsform: ????
-
 Sämtliche auf der Website veröffentlichten Texte, Abbildungen, Grafiken, Videosequenzen, Tondokumente und andere Materialien unterliegen dem Schutz des Urheberrechts. Urheber*in ist entweder ein Mitglied der Koalition gegen antimuslimischen Rassismus oder die in der Quellenangabe genannte Person oder Institution. Eine Wiedergabe, Massenvervielfältigung oder Veröffentlichung der auf der Website befindlichen Informationen ist nicht gestattet. Die Genehmigung zum Abdruck oder zur Weiterverbreitung kann im Einzelfall erteilt werden.
-
-**Nutzungsbedingungen**
-
-
-
-???
 
 
 **Haftungsausschluss**
