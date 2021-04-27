@@ -1,5 +1,14 @@
 @import '../0-tools/colors'
 
+@keyframes langFade
+  0%
+    transform: translateY(-10px)
+    opacity: 0
+
+  100%
+    transform: translateY(0px)
+    opacity: 1
+
 .home-wrap
   background: white
 
@@ -80,7 +89,7 @@
           transform: translateY(0px)
           opacity: 1
 
-
+      cursor: pointer
       li
         margin-left: .4rem
 

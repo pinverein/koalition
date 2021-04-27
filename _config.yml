@@ -110,32 +110,32 @@ tabs:
           - type: twitter
             href: https://twitter.com/dokustelle?ref_src=twsrc%5Etfw
           - type: facebook
-            href: https://www.facebook.com/DokustelleOesterreich/
+            href: DokustelleOesterreich
       - ref: "mjo"
         title: Muslimische Jugend Österreich
         socialmedia:
           - type: twitter
             href: https://twitter.com/muslimyouth?ref_src=twsrc%5Etfw
           - type: facebook
-            href: https://www.facebook.com/mjoe.at/
+            href: mjoe.at
       - ref: "ferit"
         title: Farid Hafez
         socialmedia:
           - type: twitter
             href: https://twitter.com/ferithafez?ref_src=twsrc%5Etfw
           - type: facebook
-            href: https://www.facebook.com/ferithafez/
+            href: ferithafez
       - ref: "idb"
         title: IDB
         socialmedia:
           - type: twitter
             href: https://twitter.com/idb_oesterreich?ref_src=twsrc%5Etfw
           - type: facebook
-            href: https://www.facebook.com/diskriminierungsfrei.at/
+            href: diskriminierungsfrei.at
       - ref: "zara"
         title: ZARA - Zivilcourage & Anti-Rassismus-Arbeit
         socialmedia:
           - type: twitter
             href: https://twitter.com/Verein_ZARA?ref_src=twsrc%5Etfw
           - type: facebook
-            href: https://www.facebook.com/zara.or.at/
+            href: zara.or.at
