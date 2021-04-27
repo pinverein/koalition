@@ -48,6 +48,10 @@ nav:
         title: Unterstützende
         href: supporters
 
+      - ref: action
+        title: Handlungsanweisungen
+        href: action
+
       - ref: contact
         title: Kontakt
         href: contact
@@ -56,9 +60,9 @@ nav:
         title: Social Media
         href: socialmedia
 
-      - ref: links
-        title: Links & Literatur
-        href: links
+      - ref: articles_and_literature
+        title: Artikel der Koalition & weiterführende Literatur
+        href: articles_and_literature
 
       # - ref: news
       #   title: Aktuelles
@@ -84,13 +88,17 @@ nav:
         title: Supporters
         href: supporters
 
+      - ref: action
+        title: Handlungsanweisungen
+        href: action
+
       - ref: contact
         title: Contact
         href: contact
 
-      - ref: links
+      - ref: articles_and_literature
         title: Links & Literature
-        href: links
+        href: articles_and_literature
 
 tabs:
   - language: de

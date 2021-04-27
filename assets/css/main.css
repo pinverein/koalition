@@ -733,7 +733,7 @@ p {
 }
 
 .home-wrap {
-  background: rgba(255, 255, 255, 0.6);
+  background: white;
 }
 .home-wrap header {
   z-index: 5;
@@ -752,12 +752,12 @@ p {
   overflow: hidden;
   text-indent: 101%;
   white-space: nowrap;
-  max-width: 156px;
+  max-width: 186px;
   background-image: url(../img/Koalition_gegen-antimuslimischen-Rassismus_Logo.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  height: 5rem;
+  height: 6rem;
   padding: 0;
   margin: 0 auto;
   opacity: 1;
@@ -772,7 +772,7 @@ p {
   position: relative;
 }
 .home-wrap .site-nav .nav-seperator {
-  margin: 0 34px 0 40px;
+  margin: 0 22px 0 40px;
   height: 1px;
   background-color: #ddd;
   background-image: -webkit-linear-gradient(right, #ddd, white);
@@ -783,7 +783,7 @@ p {
 .home-wrap .site-nav ul {
   list-style: none;
   margin: 1rem 0;
-  padding: 0 34px 0 0;
+  padding: 0 22px 0 0;
   text-align: right;
 }
 .home-wrap .site-nav ul .link--active, .home-wrap .site-nav ul .language--active {
@@ -1727,38 +1727,48 @@ section.startscreen .flex .news-wrapper .news-box .news-item-box .news-item-full
   }
 }
 
-section.links {
+section.articles_and_literature {
   padding: 0;
   color: #0E0100;
   background: #FFF;
 }
-section.links a {
+section.articles_and_literature a {
   color: #4DB6AC;
 }
-section.links a:hover {
+section.articles_and_literature a:hover {
   color: #EFCB77;
 }
-section.links .links-wrap {
+section.articles_and_literature .links-wrap {
   padding: 3rem 0;
 }
-section.links .links-wrap .col-full {
+section.articles_and_literature .links-wrap .col-full {
   margin: 0;
   max-width: 920px;
 }
-section.links .links-wrap .col-spread {
+section.articles_and_literature .links-wrap .col-spread {
   margin-bottom: 2rem;
 }
-section.links .links-wrap .read-more {
+section.articles_and_literature .links-wrap .read-more {
   text-align: center;
   color: #bbb;
   text-decoration: underline;
   margin-bottom: 0.6rem;
 }
+section.articles_and_literature .article {
+  border: 1px solid #eee;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 4px;
+}
+section.articles_and_literature .article h3 {
+  font-style: italic;
+  margin: 0;
+}
 @media (max-width: 1080px) {
-  section.links .col-full {
+  section.articles_and_literature .col-full {
     margin: 0;
   }
-  section.links .col-full .cards {
+  section.articles_and_literature .col-full .cards {
     display: block !important;
   }
 }
@@ -1766,7 +1776,7 @@ section.links .links-wrap .read-more {
 section.partners {
   background-color: #8A1340;
   min-height: 600px;
-  color: #FFF;
+  color: #0E0100;
 }
 section.partners .col-spread {
   text-align: center;
@@ -1799,7 +1809,7 @@ section.partners .col-1 .col-content {
   background-color: transparent;
   display: flex;
   flex-direction: column;
-  color: #FFF;
+  color: #0E0100;
   padding: 1.5rem 1.5rem;
   text-align: left;
 }
@@ -1809,7 +1819,7 @@ section.partners .col-1 .col-content h1 {
 }
 section.partners .col-1 .col-content p {
   font-weight: 300;
-  color: #FFF;
+  color: #0E0100;
 }
 @media (max-width: 1024px) {
   section.partners .flex {
@@ -1840,6 +1850,16 @@ section.partners .col-1 .col-content p {
   section.partners .col-1 .col-content {
     border-radius: 0;
   }
+}
+
+section.action {
+  background: #8A1340;
+  padding: 4rem 0;
+  color: #0E0100;
+}
+section.action h1 {
+  text-align: center;
+  margin: 0rem;
 }
 
 section.supporters {
@@ -2129,7 +2149,7 @@ section.network .network-list {
 }
 
 section.contact {
-  background: #8A1340;
+  background: white;
   padding: 4rem 0;
   color: #0E0100;
 }
@@ -2138,11 +2158,14 @@ section.contact h1 {
   margin: 0rem;
 }
 
+section.socialmedia {
+  background: #8A1340;
+}
 section.socialmedia .tab-container {
   margin: 1rem 0;
 }
 section.socialmedia .button-cta {
-  background: transparent;
+  background: rgba(255, 255, 255, 0.3);
   color: #0E0100;
   border: 1px solid #EFCB77;
   margin: 0.2rem 0.5rem;
