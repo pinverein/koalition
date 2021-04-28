@@ -1,18 +1,11 @@
----
-ref: action
-title: Handlungsempfehlungen
-language: de
----
-
-<div class="flex flex--center purple-back">
+I")<div class="flex flex--center purple-back">
   <div class="col-lead">
-  <h1 class="title-text">Handlungs<wbr>empfehlungen</h1>
+  <h1 class="title-text">Handlungs<wbr />empfehlungen</h1>
 
   <div class="lead-text">
-  <br />
     <p class="lead-text"> 
     <p>
-<h2><strong>Zentrale Handlungsempfehlungen der Koalition</strong></h2>
+<strong>Zentrale Handlungsempfehlungen der Koalition</strong>
 </p>
 <p>
 <strong>Sichtbarmachung von antimuslimischem Rassismus</strong>
@@ -105,7 +98,7 @@ language: de
 </p>
 <ol start="15">
 
-<li>Die Allgemeine Politik-Empfehlung Nr. 15 Absatz 9 der Europäischen Kommission gegen Rassismus und Intoleranz (ECRI) bzgl. der Sanktionierung von Parteien und anderen Organisationen, die Hassrede gebrauchen, soll umgesetzt werden.<sup id="fnref1">1</sup></li></ol>
+<li>Die Allgemeine Politik-Empfehlung Nr. 15 Absatz 9 der Europäischen Kommission gegen Rassismus und Intoleranz (ECRI) bzgl. der Sanktionierung von Parteien und anderen Organisationen, die Hassrede gebrauchen, soll umgesetzt werden.<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup></li></ol>
 <p>
 <strong>Schaffund von Bewusstsein für antimuslimische und islamfeindliche Stereotype und die Auswirkungen von antimuslimischem Rassismus</strong>
 </p>
@@ -125,13 +118,15 @@ language: de
 <!-- Footnotes themselves at the bottom. -->
 
 <div class="footnotes">
-<hr>
+<hr />
 <div id="fn1">
 
 <p>
-     <sup>1</sup> Europäischen Kommission gegen Rassismus und Intoleranz, (2016). Allgemeine Politik-Empfehlung Nr. 15 Der ECRI über die Bekämpfung von Hassrede. Absatz 9: <a href="https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00">https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00</a>
+     <sup>1</sup> Europäischen Kommission gegen Rassismus und Intoleranz, (2016). Allgemeine Politik-Empfehlung Nr. 15 Der ECRI über die Bekämpfung von Hassrede. Absatz 9: <a href="https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00">https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00</a> &nbsp;<a href="#fnref1" rev="footnote">&#8617;</a>
 
 </p>
 </div>
   
 </div>
+</p></div></div></div>
+:ET

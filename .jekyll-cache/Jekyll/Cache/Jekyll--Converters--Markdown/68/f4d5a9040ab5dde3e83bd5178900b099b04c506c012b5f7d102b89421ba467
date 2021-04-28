@@ -1,15 +1,8 @@
----
-ref: action
-title: Handlungsempfehlungen
-language: de
----
-
-<div class="flex flex--center purple-back">
+I"Ì(<div class="flex flex--center purple-back">
   <div class="col-lead">
-  <h1 class="title-text">Handlungs<wbr>empfehlungen</h1>
+  <h1 class="title-text">Handlungs<wbr />empfehlungen</h1>
 
   <div class="lead-text">
-  <br />
     <p class="lead-text"> 
     <p>
 <h2><strong>Zentrale Handlungsempfehlungen der Koalition</strong></h2>
@@ -125,7 +118,7 @@ language: de
 <!-- Footnotes themselves at the bottom. -->
 
 <div class="footnotes">
-<hr>
+<hr />
 <div id="fn1">
 
 <p>
@@ -135,3 +128,5 @@ language: de
 </div>
   
 </div>
+</p></div></div></div>
+:ET
