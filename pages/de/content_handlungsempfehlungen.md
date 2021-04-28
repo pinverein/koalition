@@ -129,7 +129,7 @@ language: de
 <div id="fn1">
 
 <p>
-     <sup>1</sup> Europäischen Kommission gegen Rassismus und Intoleranz, (2016). Allgemeine Politik-Empfehlung Nr. 15 Der ECRI über die Bekämpfung von Hassrede. Absatz 9: <a href="https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00">https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00</a>
+     <sup>1</sup> Europäischen Kommission gegen Rassismus und Intoleranz, (2016). Allgemeine Politik-Empfehlung Nr. 15 Der ECRI über die Bekämpfung von Hassrede. Absatz 9: <a target="_blank" href="https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00">https://rm.coe.int/ecri-general-policy-recommendation-no-15-on-combating-hate-speech-germ/16808b5b00</a>
 
 </p>
 </div>
