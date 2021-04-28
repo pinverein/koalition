@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'News 1'
+title:  'Neue zivilgesellschaftliche Koalition gegen antimuslimischen Rassismus meldet sich zu Wort'
 language: de
 categories: news
 weight: 2
