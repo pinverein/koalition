@@ -36,5 +36,4 @@ Eine ausführliche Analyse antimuslimisch rassistischer Tendenzen im aktuellen p
 Rückfragen & Kontakt:
 Koalition gegen antimuslimischen Rassismus 
 office@diekoalition.at
-![image](https://user-images.githubusercontent.com/25248756/117858875-9df34c80-b28e-11eb-8081-e25bb534d71b.png)
 
