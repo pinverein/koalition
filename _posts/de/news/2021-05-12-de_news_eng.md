@@ -13,5 +13,4 @@ Last Friday, May 7, 2021, the government surprisingly presented the 'final' draf
 
 The full press release can be found here:
 
-Inquiries & Contact: Coalition Against Anti-Muslim Racism 
-office@diekoalition.at
+Inquiries & Contact: office@diekoalition.at
