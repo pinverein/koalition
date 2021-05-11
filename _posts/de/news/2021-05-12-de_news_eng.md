@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Neueste Neuigkeit'
+title:  'Press Release: New civil society coalition against anti-Muslim racism speaks out on the presented 'anti-terror package.'
 language: de
 categories: news
 weight: 3
