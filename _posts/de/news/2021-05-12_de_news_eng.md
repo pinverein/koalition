@@ -3,7 +3,7 @@ layout: post
 title:  'Press Release: New civil society coalition against anti-Muslim racism speaks out on the presented "anti-terror package".'
 language: de
 categories: news
-weight: 3
+weight: 2
 newsID: 'news3'
 ---
 
