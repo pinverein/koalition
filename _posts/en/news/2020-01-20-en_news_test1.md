@@ -11,4 +11,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer accumsan urna l
 
 [Hier ist ein Link](/assets/pdf/Koalition%20gegen%20Antimuslimischen%20Rassismus_Partizipation%20ist%20kein%20demokratisches%20Scheinelement%2C%20sondern%20ein%20Menschenrecht.pdf)
 
+<a href="http://diekoalition.at/assets/pdf/Koalition%20gegen%20Antimuslimischen%20Rassismus_Partizipation%20ist%20kein%20demokratisches%20Scheinelement%2C%20sondern%20ein%20Menschenrecht.pdf" target="_blank">Hier ein anderer</a>
+
 In aliquet mollis imperdiet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque id commodo ante. Aliquam sodales rhoncus suscipit. Vestibulum sollicitudin auctor faucibus. Phasellus at eros ac urna convallis fermentum quis non magna. Donec scelerisque laoreet commodo. Pellentesque placerat purus a molestie fermentum.
