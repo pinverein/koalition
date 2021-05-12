@@ -7,7 +7,7 @@ email:
 description: > # this means to ignore newlines until "baseurl:"
   Willkommen auf der offiziellen Seite der Koalition gegen antimuslimischen Rassismus.
   Welcome to the official website of the Coalition against anti-muslim racism.
-
+url: http://diekoalition.at
 baseurl: "" # '/koalition'
 
 future: true
