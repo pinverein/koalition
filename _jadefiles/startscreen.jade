@@ -1,7 +1,7 @@
-mixin news-item(title, date, content, readmore)
+mixin news-item(date, title, content, readmore)
   .news-item
-    h3.news-title= title
     p.news-date= date
+    h3.news-title= title
     .news-content= content
     p.read-more (#{readmore})
 section.startscreen#start
@@ -24,13 +24,13 @@ section.startscreen#start
           
         {% for post in lang_posts %}
         .news-item-box.news(onclick='showFullNews(this)')
-          +news-item("{{post.title}}", "{{ post.date | date: date-style.format }}", "{{post.excerpt}}", "{{read-more.phrase}}")
+          +news-item( "{{ post.date | date: date-style.format }}", "{{post.title}}", "{{post.excerpt}}", "{{read-more.phrase}}")
           
           .news-item-full.news-inner
                       
             .news-content-wrapper
-              h1 {{post.title}}
               p.news-intro {{ post.date | date: date-style.format }}
+              h1 {{post.title}}
               .news-content {{post.content}}
               
               

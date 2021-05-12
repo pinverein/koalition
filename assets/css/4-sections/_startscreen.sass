@@ -67,16 +67,15 @@ section.startscreen
       right: 0
       height: 100vh
       width: 240px
-      padding-top: 1rem
-      padding-right: 2rem
+      padding: 1rem 1rem
       font:
         family: 'Roboto Condensed'
         weight: lighter
-      color: #aaa
+      color: #777
       background: rgba(white, .8)
       transform-origin: top right
       opacity: 0
-      text-align: right
+      text-align: left
 
       animation: newsFade 400ms 1800ms ease-in-out forwards
 
@@ -90,14 +89,14 @@ section.startscreen
       @media (max-width: 930px)
         width: 200px
 
-
+      
       .toggle-news
-        text-align: right
+        text-align: left
         font-size: 2rem
-        color: #888
+        color: #666
         // cursor: pointer
-        &:hover
-          color: #888
+        // &:hover
+        //   color: #888
 
       .news-box
         text-align: left
@@ -118,14 +117,16 @@ section.startscreen
 
 
           .news-item
-            text-align: right
+            text-align: left
             // opacity: 0
             font-size: .9rem
             // border-bottom: 1px solid #eee
-            color: #777 !important
-
+            color: #111 !important
+            opacity: .7
+            border-bottom: 1px solid #eee
             &:hover
-              color: #444 !important
+              // color: #444 !important
+              opacity: 1
               cursor: pointer
 
 
@@ -134,6 +135,7 @@ section.startscreen
 
 
               p
+                font-size: 1rem !important
                 // font-family: 'Roboto Condensed'
                 line-height: 1.1rem
 
@@ -143,16 +145,22 @@ section.startscreen
 
 
             .news-title
+              font-family: 'Roboto', sans-serif
               font-size: 1.1rem
               font-weight: bold
-              margin-bottom: 0
-
+              margin-top: .2rem
+              margin-bottom: .6rem
+              line-height: 1.2
             .news-date
-              margin-top: -.4rem
+              margin-bottom: 0
               // font-style: italic
 
           .news-item-full
             color: #444
+            h1
+              line-height: 1.2
+            p
+              font-size: 1rem
 
   @media (min-width: 801px)
 

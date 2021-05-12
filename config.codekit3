@@ -389,8 +389,8 @@
 		"ft": 512,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_jadefiles/startscreen.html",
-		"oF": 1,
+		"oAP": "/_includes/startscreen.html",
+		"oF": 3,
 		"oS": 0
 		},
 	"/_jadefiles/supporters.jade": {
@@ -552,7 +552,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_posts/de/news/2020-01-20-de_news_test1.md": {
+	"/_posts/de/news/2021-05-12-de_news.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -562,7 +562,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_posts/de/news/2020-01-20-de_news_test1.html",
+		"oAP": "/_posts/de/news/2021-05-12-de_news.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -571,7 +571,7 @@
 		"rFN": 0,
 		"uCM": 0
 		},
-	"/_posts/de/news/2020-01-21-de_news_test2.md": {
+	"/_posts/de/news/2021-05-12-de_news_eng.md": {
 		"cB": 0,
 		"cS": 0,
 		"eF": 1,
@@ -581,7 +581,7 @@
 		"ft": 4096,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/_posts/de/news/2020-01-21-de_news_test2.html",
+		"oAP": "/_posts/de/news/2021-05-12-de_news_eng.html",
 		"oF": 0,
 		"oFM": 0,
 		"oS": 0,
@@ -1133,16 +1133,6 @@
 		"oAP": "/_site/assets/css/0-tools/fontello/README.txt",
 		"oF": 0
 		},
-	"/_site/assets/css/main.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/_site/assets/css/main-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/_site/assets/css/main.css.map": {
 		"cB": 0,
 		"ft": 8192,
@@ -1485,6 +1475,22 @@
 		"oAP": "/_site/assets/pdf/Koalition gegen Antimuslimischen Rassismus_Partizipation ist kein demokratisches Scheinelement, sondern ein Menschenrecht.pdf",
 		"oF": 0
 		},
+	"/_site/assets/pdf/Press_release_12_5_2021_Koalition_gg_antimuslimischen_Rassismus.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/pdf/Press_release_12_5_2021_Koalition_gg_antimuslimischen_Rassismus.pdf",
+		"oF": 0
+		},
+	"/_site/assets/pdf/Presseaussendung_12.5.2021_Koalition_gg_antimuslimischen_Rassismus.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/assets/pdf/Presseaussendung_12.5.2021_Koalition_gg_antimuslimischen_Rassismus.pdf",
+		"oF": 0
+		},
 	"/_site/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -1581,14 +1587,6 @@
 		"oAP": "/_site/literatur/2020/09/30/AMR2019.html",
 		"oF": 0
 		},
-	"/_site/news/2020/01/20/de_news_test1.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/news/2020/01/20/de_news_test1.html",
-		"oF": 0
-		},
 	"/_site/news/2020/01/20/en_news_test1.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -1597,20 +1595,28 @@
 		"oAP": "/_site/news/2020/01/20/en_news_test1.html",
 		"oF": 0
 		},
-	"/_site/news/2020/01/21/de_news_test2.html": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/_site/news/2020/01/21/de_news_test2.html",
-		"oF": 0
-		},
 	"/_site/news/2020/01/21/en_news_test2.html": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/news/2020/01/21/en_news_test2.html",
+		"oF": 0
+		},
+	"/_site/news/2021/05/12/de_news.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/2021/05/12/de_news.html",
+		"oF": 0
+		},
+	"/_site/news/2021/05/12/de_news_eng.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/news/2021/05/12/de_news_eng.html",
 		"oF": 0
 		},
 	"/_site/package-lock.json": {
@@ -1635,6 +1641,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/_site/pages/de/content_articles_and_literature.html",
+		"oF": 0
+		},
+	"/_site/pages/de/content_handlungsempfehlungen.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_site/pages/de/content_handlungsempfehlungen.html",
 		"oF": 0
 		},
 	"/_site/pages/de/content_impressum.html": {
@@ -4431,6 +4445,22 @@
 		"oAP": "/assets/pdf/Koalition gegen Antimuslimischen Rassismus_Partizipation ist kein demokratisches Scheinelement, sondern ein Menschenrecht.pdf",
 		"oF": 0
 		},
+	"/assets/pdf/Press_release_12_5_2021_Koalition_gg_antimuslimischen_Rassismus.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/pdf/Press_release_12_5_2021_Koalition_gg_antimuslimischen_Rassismus.pdf",
+		"oF": 0
+		},
+	"/assets/pdf/Presseaussendung_12.5.2021_Koalition_gg_antimuslimischen_Rassismus.pdf": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/pdf/Presseaussendung_12.5.2021_Koalition_gg_antimuslimischen_Rassismus.pdf",
+		"oF": 0
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -4572,6 +4602,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/pages/de/content_kontakt.html",
+		"oF": 0
+		},
+	"/pages/de/content_partnerinnen.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/de/content_partnerinnen.html",
+		"oF": 0
+		},
+	"/pages/de/content_phaenomen.html": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/pages/de/content_phaenomen.html",
 		"oF": 0
 		},
 	"/pages/de/content_ueber-uns.html": {
