@@ -1355,6 +1355,7 @@ section.startscreen .flex .news-wrapper .news-box .news-item-box .news-item-full
     right: 0;
     bottom: 0;
     left: 0;
+    z-index: 10;
   }
   section.startscreen .news-item-box .news-item-full .close-button {
     position: absolute;
