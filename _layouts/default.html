@@ -7,7 +7,9 @@
   <title>{{ site.title }}</title>
   <meta name="description"
     content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-
+  <meta property="og:title" content="{{site.title}}" />
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta property="og:image" content="{{ site.url }}/assets/img/Koalition_gegen-antimuslimischen-Rassismus_Logo_w.png" />
   <meta name="viewport" content="width=device-width">
 
   <!-- Google verification -->
